@@ -9,4 +9,9 @@
     Mục tiêu: tìm được một phương án tối ưu(bộ nhớ) cho một vấn đề nào đó.
 </ul>
 
-### 
+### Thời gian | Time Complexity: là cách đo lường thời gian thực thi của thuật toán. 
+<ul>
+    <li>O(1), O(logn), O(n), O(nlogn), O(n^2), O(2^n), O(n!).</li>
+    <li>Giúp đánh giá tốc độ thực thi khi kích thước dữ liệu tăng lớn.</li>
+    <li>So sánh hiệu quả giữa các thuật toán.</li>
+</ul>
